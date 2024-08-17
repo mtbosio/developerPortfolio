@@ -60,6 +60,19 @@
   line-height: normal;
 }
 
+.header {
+  .logo-name {
+    color: $buttonColor;
+  
+  }
+  &.dark-menu {
+    .logo-name{
+      color: $buttonHover;
+    }
+  }
+}
+
+
 .header .logo-name {
   font-family: "Agustina Regular";
   font-weight: bold;
