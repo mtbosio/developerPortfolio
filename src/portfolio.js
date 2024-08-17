@@ -352,7 +352,7 @@ const resumeSection = {
   subtitle: "Feel free to download my resume",
   resumeLink: "https://drive.google.com/file/d/1TZjRZYrKuRJbBmKtWAzTiBA6kkE8xV3f/view?usp=drive_link",
   // Please Provide with Your Podcast embeded Link
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
