@@ -1,4 +1,4 @@
-import hack4impactImage from './../../assets/images/hack4impact-meeting.JPG'
+import hack4impactImage from './../../assets/images/hack4impact-meeting.jpg'
 import sloSunsetImage from "./../../assets/images/slo-sunset.jpg"
 import seniorPicture from "./../../assets/images/senior-picture.jpg"
 import endOverdosePicture from "./../../assets/images/end-overdose-volunteering.jpg"
