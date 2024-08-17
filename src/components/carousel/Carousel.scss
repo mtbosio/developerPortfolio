@@ -45,13 +45,14 @@
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5);
     display: flex;
-    padding: 40px 30px;
+    //padding: 40px 30px;
     align-items: flex-end;
   }
   
   .card_title {
     color: white;
     font-size: 30px;
+    margin: 2%;
   }
   
   .carousel_arrow_left,
