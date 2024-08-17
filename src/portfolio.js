@@ -176,7 +176,7 @@ const workExperiences = {
       role: "Software Developer",
       company: "Hack4Impact",
       companylogo: require("./assets/images/hack4impact-logo.jpeg"),
-      date: "Octoner 2023 – June 2024",
+      date: "October 2023 – June 2024",
       desc: "Volunteered with Hack4Impact to design and develop a web solution for Ecologistics.",
       descBullets: [
         "Collaborated and worked with a team of 7 to develop a shared calendar web application.",
